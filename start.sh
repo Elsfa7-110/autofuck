@@ -15,6 +15,8 @@ echo -e "Start Findomain \n"
 
 findomain --quiet -t $1 -u findomain.txt
 
+echo -e "Start crobat \n"
+
 crobat -s $1 $DEBUG_ERROR | anew -q crobat.txt
 
 echo -e "Start Sort \n"
