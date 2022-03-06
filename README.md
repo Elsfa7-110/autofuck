@@ -1,6 +1,6 @@
 # autofuck
 
-to run it
+Usage:
 
 bash start.sh domain.com
 
