@@ -9,3 +9,12 @@ $HOME/.config/uncover/provider-config.yaml
 
 subfinder config here
 $HOME/.config/subfinder/config.yaml
+
+Tools:
+Subdomains>Subfinder-Findomain-Crobat
+
+Discover hosts>Uncover
+
+Web Prober>httpx
+
+Vulnerability scanner>nuclei
