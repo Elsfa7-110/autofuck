@@ -16,6 +16,8 @@ Subdomains>Subfinder-Findomain-Crobat
 
 Discover hosts>Uncover
 
+Port scanning>naabu
+
 Web Prober>httpx
 
 Vulnerability scanner>nuclei
